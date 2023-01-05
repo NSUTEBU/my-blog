@@ -227,27 +227,27 @@ footer {
 @media only screen and (max-width: 768px) {
   .left {
     margin: auto;
-  }
+}
 
   .right {
     margin: auto;
     max-width: 762px;
-  }
+}
 
   .main {
     display: block;
     margin: auto;
-  }
+}
 
   .post-img2 {
     display: none;
-  }
+}
 
   .first-bottom .btn {
     font-size: 12px;
-  }
+}
 
   .first-bottom .comments {
     font-size: 15px;
-  }
+}
 }
